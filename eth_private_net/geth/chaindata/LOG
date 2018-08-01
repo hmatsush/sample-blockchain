@@ -1,0 +1,30 @@
+=============== Aug 1, 2018 (JST) ===============
+14:26:28.124763 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+14:26:28.126301 db@open opening
+14:26:28.141227 version@stat F·[] S·0B[] Sc·[]
+14:26:28.141829 db@janitor F·2 G·0
+14:26:28.141930 db@open done T·15.606335ms
+=============== Aug 1, 2018 (JST) ===============
+14:26:28.294551 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+14:26:28.294879 version@stat F·[] S·0B[] Sc·[]
+14:26:28.294915 db@open opening
+14:26:28.295010 journal@recovery F·1
+14:26:28.301039 journal@recovery recovering @1
+14:26:28.302674 memdb@flush created L0@2 N·9 S·555B "H\xbe\x19..g\xef\xe1,v3":"r\x00\x00..g\xef\xe1,v5"
+14:26:28.307651 version@stat F·[1] S·555B[555B] Sc·[0.25]
+14:26:28.309272 db@janitor F·3 G·0
+14:26:28.309327 db@open done T·14.384953ms
+14:26:37.394957 db@close closing
+14:26:37.395551 db@close done T·589.596µs
+=============== Aug 1, 2018 (JST) ===============
+14:27:21.700091 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+14:27:21.700361 version@stat F·[1] S·555B[555B] Sc·[0.25]
+14:27:21.700392 db@open opening
+14:27:21.700478 journal@recovery F·1
+14:27:21.705240 journal@recovery recovering @3
+14:27:21.706490 memdb@flush created L0@5 N·2 S·238B "Dat..ion,v11":"Las..der,v12"
+14:27:21.711611 version@stat F·[2] S·793B[793B] Sc·[0.50]
+14:27:21.713146 db@janitor F·4 G·0
+14:27:21.713211 db@open done T·12.798847ms
+14:27:32.709292 db@close closing
+14:27:32.709966 db@close done T·672.562µs

@@ -1,0 +1,45 @@
+INFO [08-01|14:26:28.281] Maximum peer count                       ETH=25 LES=0 total=25
+INFO [08-01|14:26:28.294] Starting peer-to-peer node               instance=Geth/v1.8.12-stable/darwin-amd64/go1.10.3
+INFO [08-01|14:26:28.294] Allocated cache and file handles         database=/Users/hm_na0/workspace/sample-blockchain/eth_private_net/geth/chaindata cache=768 handles=128
+INFO [08-01|14:26:28.310] Initialised chain configuration          config="{ChainID: 33 Homestead: 0 DAO: <nil> DAOSupport: false EIP150: <nil> EIP155: 0 EIP158: 0 Byzantium: <nil> Constantinople: <nil> Engine: unknown}"
+INFO [08-01|14:26:28.310] Disk storage enabled for ethash caches   dir=/Users/hm_na0/workspace/sample-blockchain/eth_private_net/geth/ethash count=3
+INFO [08-01|14:26:28.316] Disk storage enabled for ethash DAGs     dir=/Users/hm_na0/.ethash                                                 count=2
+INFO [08-01|14:26:28.317] Initialising Ethereum protocol           versions="[63 62]" network=10
+INFO [08-01|14:26:28.318] Loaded most recent local header          number=0 hash=be1919…67efe1 td=4096
+INFO [08-01|14:26:28.318] Loaded most recent local full block      number=0 hash=be1919…67efe1 td=4096
+INFO [08-01|14:26:28.318] Loaded most recent local fast block      number=0 hash=be1919…67efe1 td=4096
+INFO [08-01|14:26:28.320] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [08-01|14:26:28.333] Starting P2P networking 
+INFO [08-01|14:26:28.335] RLPx listener up                         self="enode://97e2811597e6928f9fa9ac7f2d949f8380c5b007f42ba6f33552fc76c2775fe911f0493691ecfd552416bdf20d4805acc0685a30c81b5fd63f5b4354bfdc2e70@[::]:30303?discport=0"
+INFO [08-01|14:26:28.355] IPC endpoint opened                      url=/Users/hm_na0/workspace/sample-blockchain/eth_private_net/geth.ipc
+INFO [08-01|14:26:28.360] HTTP endpoint opened                     url=http://localhost:8545                                              cors=* vhosts=localhost
+INFO [08-01|14:26:37.393] HTTP endpoint closed                     url=http://localhost:8545
+INFO [08-01|14:26:37.394] IPC endpoint closed                      endpoint=/Users/hm_na0/workspace/sample-blockchain/eth_private_net/geth.ipc
+INFO [08-01|14:26:37.394] Blockchain manager stopped 
+INFO [08-01|14:26:37.394] Stopping Ethereum protocol 
+INFO [08-01|14:26:37.394] Ethereum protocol stopped 
+INFO [08-01|14:26:37.394] Transaction pool stopped 
+INFO [08-01|14:26:37.395] Database closed                          database=/Users/hm_na0/workspace/sample-blockchain/eth_private_net/geth/chaindata
+INFO [08-01|14:27:21.691] Maximum peer count                       ETH=25 LES=0 total=25
+INFO [08-01|14:27:21.699] Starting peer-to-peer node               instance=Geth/v1.8.12-stable/darwin-amd64/go1.10.3
+INFO [08-01|14:27:21.699] Allocated cache and file handles         database=/Users/hm_na0/workspace/sample-blockchain/eth_private_net/geth/chaindata cache=768 handles=128
+INFO [08-01|14:27:21.713] Initialised chain configuration          config="{ChainID: 33 Homestead: 0 DAO: <nil> DAOSupport: false EIP150: <nil> EIP155: 0 EIP158: 0 Byzantium: <nil> Constantinople: <nil> Engine: unknown}"
+INFO [08-01|14:27:21.713] Disk storage enabled for ethash caches   dir=/Users/hm_na0/workspace/sample-blockchain/eth_private_net/geth/ethash count=3
+INFO [08-01|14:27:21.713] Disk storage enabled for ethash DAGs     dir=/Users/hm_na0/.ethash                                                 count=2
+INFO [08-01|14:27:21.713] Initialising Ethereum protocol           versions="[63 62]" network=10
+INFO [08-01|14:27:21.715] Loaded most recent local header          number=0 hash=be1919…67efe1 td=4096
+INFO [08-01|14:27:21.715] Loaded most recent local full block      number=0 hash=be1919…67efe1 td=4096
+INFO [08-01|14:27:21.715] Loaded most recent local fast block      number=0 hash=be1919…67efe1 td=4096
+INFO [08-01|14:27:21.715] Loaded local transaction journal         transactions=0 dropped=0
+INFO [08-01|14:27:21.716] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [08-01|14:27:21.717] Starting P2P networking 
+INFO [08-01|14:27:21.719] RLPx listener up                         self="enode://97e2811597e6928f9fa9ac7f2d949f8380c5b007f42ba6f33552fc76c2775fe911f0493691ecfd552416bdf20d4805acc0685a30c81b5fd63f5b4354bfdc2e70@[::]:30303?discport=0"
+INFO [08-01|14:27:21.721] IPC endpoint opened                      url=/Users/hm_na0/workspace/sample-blockchain/eth_private_net/geth.ipc
+INFO [08-01|14:27:21.723] HTTP endpoint opened                     url=http://localhost:8545                                              cors=* vhosts=localhost
+INFO [08-01|14:27:32.708] HTTP endpoint closed                     url=http://localhost:8545
+INFO [08-01|14:27:32.708] IPC endpoint closed                      endpoint=/Users/hm_na0/workspace/sample-blockchain/eth_private_net/geth.ipc
+INFO [08-01|14:27:32.709] Blockchain manager stopped 
+INFO [08-01|14:27:32.709] Stopping Ethereum protocol 
+INFO [08-01|14:27:32.709] Ethereum protocol stopped 
+INFO [08-01|14:27:32.709] Transaction pool stopped 
+INFO [08-01|14:27:32.710] Database closed                          database=/Users/hm_na0/workspace/sample-blockchain/eth_private_net/geth/chaindata
